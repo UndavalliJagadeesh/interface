@@ -1,7 +1,29 @@
-span.css-10trblm.e16nr0p30{
+.css-ocqkz7 .e1tzin5v4{
     display: flex;
+    flex-wrap: wrap;
+}
+
+#smart-water-grid{
+    text-align: center;
+    font-size: 4rem;
+}
+#vishnu-institute-of-technology {
     align-items: center;
+    text-align: center;
+    font-size: 4rem;
+}
+.user-select-none .svg-container{
+    flex: 100%;
+}
+/* @media (max-width: 800px) {
+    .user-select-none .svg-container {
+      flex: 100%;
+    }
+  } */
+
+.css-1x8cf1d .edgvbvh10{
+    top: 50%;
+    left: 50%;
     justify-content: center;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    top: -10px !important;
+    justify-items: center;
 }
