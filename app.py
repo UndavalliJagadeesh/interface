@@ -70,6 +70,7 @@ if live_val:
                 st.write(fig)
         
             with col2:
+                st.markdown(f'<h5>Flow Rate - 1</h5>', unsafe_allow_html=True)
                 fig = go.Figure(go.Indicator(
                 domain={'x': [0, 1], 'y': [0, 1]},
                 value=val**(1.2),
@@ -107,6 +108,7 @@ if live_val:
                 st.write(fig)
         
             with ncol2:
+                st.markdown(f'<h5>Flow Rate - 2</h5>', unsafe_allow_html=True)
                 fig = go.Figure(go.Indicator(
                     domain={'x': [0, 1], 'y': [0, 1]},
                     value=val**(1.2),
