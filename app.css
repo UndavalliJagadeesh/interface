@@ -1,3 +1,8 @@
+.block-container{
+    /* background-image: url("https://media.geeksforgeeks.org/wp-content/cdn-uploads/CSS.png"); */
+    background: rgb(219,232,246);
+    background: linear-gradient(45deg, rgba(219,232,246,1) 0%, rgba(250,220,233,1) 100%);
+}
 .css-ocqkz7 .e1tzin5v4{
     display: flex;
     flex-wrap: wrap;
